@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&text=Divya%20Arjun%20Pawar&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20ML%2FAI%20%7C%20Data Science%20Expert&descAlignY=70&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=split&height=300&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&text=Divya%20Arjun%20Pawar&fontAlign=50&fontAlignY=40&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20ML%2FAI%20%7C%20Data Science%20Expert&descAlignY=70&descAlign=50&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <!-- 🎨 GRADIENT STYLE 2 - Fiery Orange/Red Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:ff6b35,50:f7931e,100:ffd60a&text=Let%27s%20Build%20Together&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Turning%20Vision%20Into%20Reality&descAlignY=60&descAlign=50&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=diagonal&height=250&color=0:ff6b35,50:f7931e,100:ffd60a&text=Let%27s%20Build%20Together&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Turning%20Vision%20Into%20Reality&descAlignY=60&descAlign=50&animation=blinking" />
 </p>
 
 <p align="center">
