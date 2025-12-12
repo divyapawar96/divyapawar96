@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Gifs/Earth.gif" width="280" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/SWoRKslHVtqgasJ66x/giphy.gif" width="280" alt="Developer at work" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Gifs/Coding.gif" width="300" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIN/giphy.gif" width="300" alt="Coding animation" />
 </p>
 
 <p align="center">
