@@ -9,9 +9,9 @@
 </div>
 </div
   
-  --->
-[[[[[[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)
-[[[[[<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+
+---
+[[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)[[[[[<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 ]([url]([url](url)))](url)](url)](url)](url)  
   <p>
     I'm an aspiring <strong>Full Stack Developer</strong> passionate about transforming ideas into intelligent, real-world solutions. I specialize in <strong>Python, Machine Learning, Web Development, and AI</strong> applications. Always eager to learn, collaborate, and innovate through code.
