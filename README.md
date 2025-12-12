@@ -4,10 +4,8 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3556/3556098.png" alt="Girl Developer" width="350" height="350" />
----
-
+<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
 <div align="center">
   <h2>✨ About Me ✨</h2>
   <p>
