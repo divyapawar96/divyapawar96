@@ -1,25 +1,41 @@
-<!-- Profile Banner with Animation -->
+<!-- Animated Header with Visual Effects -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Hi%20There/Hi.gif" alt="Hi GIF" width="220" style="border-radius: 10px; margin-bottom: 20px;" />
+  <!-- Animated Background Effect -->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Coder%20Vibe/coder%20vibe.gif" alt="Coding Vibe" width="1000" style="border-radius: 15px; margin-bottom: 20px; opacity: 0.1; position: absolute; z-index: -1;" />
   
-  # 👋 Hello, I'm Divya Arjun Pawar
+  <!-- Main Header Container with Gradient Effect -->
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 20px; margin-bottom: 30px;">
+    
+    <!-- Animated GIF Banner -->
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Hi%20There/Hi.gif" alt="Hi GIF" width="280" style="border-radius: 15px; margin-bottom: 25px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);" />
+    
+    <!-- Main Title with Gradient Text Effect -->
+    <h1 style="background: linear-gradient(to right, #FFD700, #FFA500, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3.5em; margin: 20px 0; font-weight: 900; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">👋 Hello, I'm Divya Arjun Pawar</h1>
+    
+    <!-- Animated Subtitle with Wave Effect -->
+    <p style="font-size: 1.3em; color: #fff; margin: 20px 0; font-weight: 500; letter-spacing: 1px;">Full Stack Developer 🚀 | Machine Learning Enthusiast 🤖 | Open Source Contributor 🌟</p>
+    
+    <!-- Animated Social Links -->
+    <div style="margin: 25px 0;">
+      <a href="https://www.linkedin.com/in/divya-pawar-727b39292/" target="_blank" style="display: inline-block; margin: 0 10px; transition: transform 0.3s ease; cursor: pointer;">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(1);" />
+      </a>
+      <a href="mailto:itsdivyapawar2005@gmail.com" style="display: inline-block; margin: 0 10px; transition: transform 0.3s ease; cursor: pointer;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transform: scale(1);" />
+      </a>
+      <a href="https://github.com/divyapawar96" style="display: inline-block; margin: 0 10px; transition: transform 0.3s ease; cursor: pointer;">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transform: scale(1);" />
+      </a>
+    </div>
+    
+    <!-- Tagline with Animated Effect -->
+    <p style="font-size: 1.1em; color: #FFD700; margin-top: 20px; font-style: italic; font-weight: 600;">✨ Passionate about building scalable solutions and exploring cutting-edge technologies ✨</p>
+    
+  </div>
   
-  <p>
-    <a href="https://www.linkedin.com/in/divya-pawar-727b39292/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:itsdivyapawar2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/divyapawar96">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <!-- Profile Stats Badge -->
+  <img src="https://komarev.com/ghpvc/?username=divyapawar96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" style="margin-top: 20px;" />
   
-  <h3>Full Stack Developer 🚀 | Machine Learning Enthusiast 🤖 | Open Source Contributor 🌟</h3>
-  <p><i>Passionate about building scalable solutions and exploring cutting-edge technologies</i></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=divyapawar96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
