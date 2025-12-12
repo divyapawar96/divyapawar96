@@ -6,19 +6,22 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/Hi%20There/Hi.gif" alt="Hi GIF" width="280" style="border-radius: 15px; margin-bottom: 25px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); animation: float 3s ease-in-out infinite;" />
 </div>
 
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
-  }
-  
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 5px rgba(255, 215, 0, 0.5), 0 0 10px rgba(255, 215, 0, 0.3); }
-    50% { box-shadow: 0 0 20px rgba(255, 215, 0, 0.8), 0 0 30px rgba(255, 215, 0, 0.5); }
-  }
-  
-  .title { animation: glow 2s ease-in-out infinite; }
-</style>
+<!-- Animated decorative elements -->
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Floating circles animation -->
+  <circle cx="10%" cy="50" r="5" fill="#FFD700" opacity="0.6">
+    <animate attributeName="cy" values="50;30;50" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="90%" cy="50" r="5" fill="#667eea" opacity="0.6">
+    <animate attributeName="cy" values="50;30;50" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <!-- Glowing line animation -->
+  <line x1="20%" y1="80" x2="80%" y2="80" stroke="#FFD700" stroke-width="2" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite" />
+  </line>
+</svg>
+
+
 
 <h1 align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3em; font-weight: 900; margin: 20px 0; text-shadow: 2px 2px 4px rgba(102, 126, 234, 0.2);">👋 Welcome to My Profile!</h1>
 
