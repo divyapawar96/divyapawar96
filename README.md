@@ -1,17 +1,26 @@
-<div align="center" style="background: linear-gradient(90deg, #FF006E, #FB5607, #FFBE0B, #8338EC); padding: 20px; border-radius: 10px; animation: gradient 3s ease infinite;">
-  <h1 style="color: white; font-size: 3.5em; font-weight: bold; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">✨ DIVYA ARJUN PAWAR ✨</h1>
-  <p style="color: #fff; font-size: 1.3em; margin: 10px 0 0 0;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</p>
-</div>
-</div>
-<div align="center" style="border: 3px solid #FF006E; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
+<div align="center">
+  <svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:rgb(255,0,110);stop-opacity:1" />
+        <stop offset="25%" style="stop-color:rgb(251,86,7);stop-opacity:1" />
+        <stop offset="50%" style="stop-color:rgb(255,190,11);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(131,56,236);stop-opacity:1" />
+      </linearGradient>
+      <style>
+        @keyframes wave { 0%,100% { fill-opacity: 1; } 50% { fill-opacity: 0.7; } }
+        .animated-text { animation: wave 3s infinite; font-family: Arial, sans-serif; font-weight: bold; font-size: 3.5em; fill: url(#grad); }
+      </style>
+    </defs>
+    <text x="400" y="110" text-anchor="middle" class="animated-text">✨ DIVYA ARJUN PAWAR ✨</text>
+  </svg>
 </div>
 
-[](url)[](url)[[[[[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+<p align="center" style="font-size: 1.3em; color: #667eea; margin-top: -20px;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</p>
+
+<div align="center" style="border: 3px solid #FF006E; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.4); margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
-</div>
-</div
-  
+</div>  
 
 ---
 [[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)[[[[[<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
