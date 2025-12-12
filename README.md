@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5c61b01e-6c99-46f8-a29c-d1f6472d4308.gif" alt="Girl Developer" width="350" height="350" />
-</div>
+  <img src="https://media.giphy.com/media/SWoRKslHVtqgMwv373/giphy.gif" alt="Girl Developer" width="400" height="350" /></div>
 
 ---
 
