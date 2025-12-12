@@ -1,13 +1,18 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=50&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&height=100&lines=👋+Hi%2C+I'm+Divya;💻+Full+Stack+Developer;🚀+AI+%26+ML+Enthusiast" alt="Hi, I'm Divya" />
-  </h1>
+  <div align="center">
+  <h1 style="font-size: 3em; color: #FF69B4; font-weight: bold; margin: 10px 0;">✨ DIVYA ARJUN PAWAR ✨</h1>
+  <p style="font-size: 1.2em; color: #667eea; margin: 5px 0;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</p>
 </div>
 
 <div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
-<div align="center">
-  <h2>✨ About Me ✨</h2>
+</div>
+</div
+  
+  --->
+[[[[[[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)
+[[[[[<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+]([url]([url](url)))](url)](url)](url)](url)  
   <p>
     I'm an aspiring <strong>Full Stack Developer</strong> passionate about transforming ideas into intelligent, real-world solutions. I specialize in <strong>Python, Machine Learning, Web Development, and AI</strong> applications. Always eager to learn, collaborate, and innovate through code.
   </p>
