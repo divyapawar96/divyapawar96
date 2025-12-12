@@ -1,22 +1,15 @@
-<div align="center">
-  <svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:rgb(255,0,110);stop-opacity:1" />
-        <stop offset="25%" style="stop-color:rgb(251,86,7);stop-opacity:1" />
-        <stop offset="50%" style="stop-color:rgb(255,190,11);stop-opacity:1" />
-        <stop offset="100%" style="stop-color:rgb(131,56,236);stop-opacity:1" />
-      </linearGradient>
-      <style>
-        @keyframes wave { 0%,100% { fill-opacity: 1; } 50% { fill-opacity: 0.7; } }
-        .animated-text { animation: wave 3s infinite; font-family: Arial, sans-serif; font-weight: bold; font-size: 3.5em; fill: url(#grad); }
-      </style>
-    </defs>
-    <text x="400" y="110" text-anchor="middle" class="animated-text">✨ DIVYA ARJUN PAWAR ✨</text>
-  </svg>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=50&duration=3000&pause=500&color=FF006E,FB5607,FFBE0B,8338EC&center=true&vCenter=true&width=800&height=100&lines=%E2%9C%A8+DIVYA+ARJUN+PAWAR+%E2%9C%A8" alt="Animated Name" />
+</h1>
+
+<h2 align="center" style="color: #667eea; margin-top: -10px;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</h2>
+
+<div align="center" style="border: 3px solid #FF006E; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.4); margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
 </div>
 
-<p align="center" style="font-size: 1.3em; color: #667eea; margin-top: -20px;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</p>
+---
+[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)[[[[[[[](url)](url)](url)](url)](url)](url)](url)[[[[[[](url)](url)](url)](url)](url)](url)[[[[[[[](url)](url)](url)](url)](url)](url)](url)<p align="center" style="font-size: 1.3em; color: #667eea; margin-top: -20px;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</p>
 
 <div align="center" style="border: 3px solid #FF006E; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.4); margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
