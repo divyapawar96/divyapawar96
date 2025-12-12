@@ -1,10 +1,13 @@
-<div align="center">
-  <div align="center">
-  <h1 style="font-size: 3em; color: #FF69B4; font-weight: bold; margin: 10px 0;">✨ DIVYA ARJUN PAWAR ✨</h1>
-  <p style="font-size: 1.2em; color: #667eea; margin: 5px 0;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</p>
+<div align="center" style="background: linear-gradient(90deg, #FF006E, #FB5607, #FFBE0B, #8338EC); padding: 20px; border-radius: 10px; animation: gradient 3s ease infinite;">
+  <h1 style="color: white; font-size: 3.5em; font-weight: bold; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">✨ DIVYA ARJUN PAWAR ✨</h1>
+  <p style="color: #fff; font-size: 1.3em; margin: 10px 0 0 0;">Full Stack Developer | Python & ML Enthusiast | Building Smart Solutions</p>
+</div>
+</div>
+<div align="center" style="border: 3px solid #FF006E; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.4);">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
 </div>
 
-<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+[](url)[](url)[[[[[[[[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)](url)<div align="center" style="border: 2px solid #FF69B4; border-radius: 15px; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user.gif" alt="Girl Developer" width="500" height="400" />
 </div>
 </div
