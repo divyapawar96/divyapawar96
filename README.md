@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqgMwv373/giphy.gif" alt="Girl Developer" width="400" height="350" /></div>
-
+  <img src="https://cdn-icons-png.flaticon.com/512/3556/3556098.png" alt="Girl Developer" width="350" height="350" />
 ---
 
 <div align="center">
